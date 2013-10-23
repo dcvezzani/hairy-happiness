@@ -11,7 +11,6 @@ gem 'pg'
 gem 'comfortable_mexican_sofa', '~> 1.10.0'
 gem 'comfy_blog', '~> 1.0.0'
 
-
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
@@ -77,6 +76,7 @@ group :development, :test do
   gem 'cmess', git: 'http://github.com/fac/cmess.git'
   gem 'nokogiri'
 end
+
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
